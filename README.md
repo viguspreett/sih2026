@@ -36,8 +36,7 @@ pip install -r requirements.txt
 Source:
 https://data.mendeley.com/datasets/44pfnysy89/1
 
-The dataset contains gait videos from Knee Osteoarthritis (KOA) and Normal (NM) subjects and is used for feature extraction and classification in this
- project.
+The dataset contains gait videos from Knee Osteoarthritis (KOA) and Normal (NM) subjects and is used for feature extraction and classification in this project. Although, The given dates contains another module of Parkinsons Disease that included 16 data entries but since they were not directly connected with our scope so were not considered in the final training and testing dataset.
 
 > Note: The dataset is not included in this repository due to size and licensing considerations. Please download it from the official source.
 
